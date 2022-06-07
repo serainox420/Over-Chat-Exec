@@ -6,6 +6,7 @@ Change default master nickname and prefix up to your prefferences.
 Example use:
 
 `<Master> % /kill`
+
 `<Worker> /kill`
-  
+
 *Worker died*
